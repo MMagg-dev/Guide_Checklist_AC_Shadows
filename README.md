@@ -1,2 +1,2 @@
-# Guide-Checklist---AC-Shadows
-Official repository for the Android application: Guide, Checklist - AC Shadows
+# Guide, Checklist - AC Shadows
+An unofficial guide, checklist, and progress tracker for the Assassin's Creed Shadows game.
