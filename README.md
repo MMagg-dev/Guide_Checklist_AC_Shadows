@@ -44,4 +44,7 @@ View the Privacy Policy and Terms of Use for the app [here](https://github.com/M
 * Any content from future DLCs
 
 ## Screenshots
-![Guides](/Screenshots/1_guides.png)
+![Guides](/Screenshots/1_guides.png)    ![Side Quests](/Screenshots/2_side_quests.png)
+![Weapons](/Screenshots/3_weapons.png)    ![Amulets](/Screenshots/4_amulets.png)
+![Achievements](/Screenshots/5_achievements.png)    ![Outfits](/Screenshots/6_outfits.png)
+![Activities and Collectibles](/Screenshots/7_activities.png)
