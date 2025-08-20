@@ -17,7 +17,7 @@ Please note that the application utilizes third-party services that have their o
 *   [AdMob](https://developers.google.com/admob/terms)
 *   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
-*   [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
+*   [Meta (formerly known as Facebook)](https://www.facebook.com/legal/terms/plain_text_terms)
 
 Please be aware that the service provider does not assume responsibility for certain aspects. Some functions of the application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The service provider cannot be held responsible if the application does not function at full capacity due to a lack of access to Wi-Fi or if you have exhausted your data allowance.
 
