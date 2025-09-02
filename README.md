@@ -39,7 +39,6 @@ View the Privacy Policy and Terms of Use for the app [here](https://github.com/M
 * Add any missing information
 * More guides
 * Search functionality
-* More guides
 * Add legendary chests and Jizo statues to the activities and collectibles list
 * Any content from future DLCs
 
