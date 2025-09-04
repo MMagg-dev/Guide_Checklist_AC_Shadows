@@ -3,7 +3,7 @@ An unofficial guide, checklist, and progress tracker for the Assassin's Creed Sh
 
 An unofficial checklist, progress tracker, and guide for Assassin's Creed Shadows. Explore war-torn regions of Sengoku-era Japan as Naoe and Yasuke and keep track of every quest, collectible, achievement, weapon, outfit, trinket, and amulet across the game and its DLCs.
 
-<!-- [![Google Play](google_play.png)](https://play.google.com/store/apps/details?id=me.mmagg.acshadowsguide) -->
+[![Google Play](google_play.png)](https://play.google.com/store/apps/details?id=me.mmagg.acshadowsguide)
 
 ## App Features
 * Game guides including tips and strategies
