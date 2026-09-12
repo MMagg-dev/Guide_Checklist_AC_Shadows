@@ -38,7 +38,7 @@ Please note that this is an unofficial, fan made application. This app is not ma
 View the Privacy Policy and Terms of Use for the app [here](https://github.com/MMagg-dev/Guide_Checklist_AC_Shadows/tree/main/Legal).
 
 ## Screenshots
-![Guides](/Screenshots/1_guides.png)        ![Side Quests](/Screenshots/2_side_quests.png) \
-![Weapons](/Screenshots/3_weapons.png)        ![Amulets](/Screenshots/4_amulets.png) \
-![Achievements](/Screenshots/5_achievements.png)        ![Outfits](/Screenshots/6_outfits.png) \
-![Activities and Collectibles](/Screenshots/7_activities.png)
+![Guides](/Screenshots/1_guides_light.png)        ![Side Quests](/Screenshots/2_side_quests_light.png) \
+![Weapons](/Screenshots/3_weapons_dark.png)        ![Amulets](/Screenshots/4_amulets_dark.png) \
+![Achievements](/Screenshots/5_achievements_light.png)        ![Outfits](/Screenshots/6_outfits_light.png) \
+![Story Drops](/Screenshots/7_story_drops_dark.png)        ![Claws of Awaii Quests](/Screenshots/8_claws_quests_dark.png)
